@@ -1,5 +1,4 @@
-# cybersecurity-portfolio
-I will be documenting everything i learn here.
+
 # Cybersecurity Portfolio
 
 ## About Me
