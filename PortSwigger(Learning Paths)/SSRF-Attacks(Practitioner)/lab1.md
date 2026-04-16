@@ -71,6 +71,7 @@ Successfully bypassed SSRF filters and accessed internal functionality.
 ## Evidence
 - Screenshot of bypass payload
 <img width="501" height="315" alt="image" src="https://github.com/user-attachments/assets/fc9e41de-82fb-4064-9f5d-8e981c3706ac" />
+
 - Screenshot of admin panel access
 <img width="1028" height="325" alt="image" src="https://github.com/user-attachments/assets/ca1813d2-0420-4f92-be68-1323fc2ae92d" />
 
